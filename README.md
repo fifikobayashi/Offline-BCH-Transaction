@@ -1,4 +1,4 @@
-# Offline-BCH-Transaction
+# Offline BCH Transactions
 A python implementation of an offline Bitcoin Cash transaction
 
 **Prerequisite**
